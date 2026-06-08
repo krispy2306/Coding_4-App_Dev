@@ -33,7 +33,7 @@ Built with React Native and Expo.
 **app/**
 **_layout.tsx:** root layout, tab navigation, font loading 
 
-**connect.tsc:** connect/messaging screen
+**connect.tsx:** connect/messaging screen
 
 **explore.tsx:** explore/search screen
 
