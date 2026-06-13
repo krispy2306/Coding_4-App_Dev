@@ -22,7 +22,7 @@ Built with React Native and Expo.
 
 - clone the repository
 - run **npm install**
-- run **npx expo start** (--clear)
+- run **npx expo start** 
 - scan QR code on your phone, or press 'a' to run in Android emulator
 
 - if project will not run in Android emulator, run with 'Cold Boot' via Android Studio.
